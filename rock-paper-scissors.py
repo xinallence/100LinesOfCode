@@ -41,12 +41,12 @@ for plr in data:
         score = int(plr[1])
         break
 
-user_choose = str(input("Press Enter to cont. with default options "
+user_choise = str(input("Press Enter to cont. with default options "
                         "or give options\n"))
-if user_choose == "":
+if user_choise == "":
     values = ["rock", "paper", "scissors"]
 else:
-    values = user_choose.split(",")
+    values = user_choise.split(",")
 
 active_options = {}
 for key in all_losing_options:
