@@ -1,1 +1,0 @@
-Simple PDF Merger with GUI in Python

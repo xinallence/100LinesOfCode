@@ -1,4 +1,0 @@
-speech_recognition
-langdetect
-pyttsx3
-google_trans_new
